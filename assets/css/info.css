@@ -1,0 +1,12 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@200;300;400;600;800&display=swap');
+
+/* gallery */
+#information .row {
+  margin-top: 5rem;
+}
+
+.dates {
+  color: var(--color-primary);
+  text-align: right;
+}

@@ -1,0 +1,10 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@200;300;400;600;800&display=swap');
+
+#project .container {
+  padding-top: 8rem;
+}
+
+#project .card {
+  border: 1px solid #fff;
+}
